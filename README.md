@@ -39,6 +39,8 @@
 
 ➥To use the backend locally, enter the /backend folder through the terminal.
 
+➥Then, run the following command: ```npm install```
+
 ➥Then, run the following command: ```npm start```
 
 ➥With the backend running, just enter the [frontend project](https://ojordany.github.io/ReactRegistrationSystem/) that will already be linked to the backend.
